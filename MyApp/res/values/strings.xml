@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MH-CALLER</string>
+    <string name="exit">EXIT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_search">Action</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="caller">CALLER</string>
+    <string name="type_city_to_call">Type City To Call</string>
+    <string name="clear">CLEAR</string>
+    <string name="auto_complete">AutoComplete</string>
+    <string name="multi_auto_complete">Multi AutoComplete</string>
+    <string name="call">Call</string>
+    <string name="phone">Type Phone Number To Call</string>
+
+    <string-array name="cities">
+        <item>Achalpur</item>
+        <item>Ahmednagar</item>
+        <item>Ahmedpur</item>
+        <item>Akkalkot</item>
+        <item>Alibagh</item>
+        <item>Amravati</item>
+        <item>Aurangabad</item>
+        <item>Balapur</item>
+        <item>Bassein</item>
+        <item>Bhandara</item>
+        <item>Chandrapur</item>
+        <item>Chanwad</item>
+        <item>Chhikaldara</item>
+        <item>Chinchwad</item>
+        <item>Dahanu</item>
+        <item>Deogad</item>
+        <item>Deoli</item>
+        <item>Deori</item>
+        <item>Dhanora</item>
+        <item>Gangapur</item>
+        <item>Goregaon</item>
+        <item>Igatpuri</item>
+        <item>Jalgaon</item>
+        <item>Junnar</item>
+        <item>Kalyan</item>
+        <item>Khadakwasala</item>
+        <item>Khopoli</item>
+        <item>Kolhapur</item>
+        <item>Kopargaon</item>
+        <item>Koregaon</item>
+        <item>Latur</item>
+        <item>Lonavala</item>
+        <item>Mahabaleswar</item>
+        <item>Malegaon</item>
+        <item>Malwan</item>
+        <item>Mumbai</item>
+        <item>Murud</item>
+        <item>Nagpur</item>
+        <item>Nanded</item>
+        <item>Nandgaon</item>
+        <item>Nashik city</item>
+        <item>Navi Mumbai</item>
+        <item>Osmanabad</item>
+        <item>Paithan</item>
+        <item>Pali</item>
+        <item>Panhala</item>
+        <item>Patan</item>
+        <item>Pune</item>
+        <item>Ramtek</item>
+        <item>Ratnagiri</item>
+        <item>Sakarwadi</item>
+        <item>Sakoli</item>
+        <item>Sangli</item>
+        <item>Sholapur</item>
+        <item>Tumsar</item>
+        <item>Vijapur</item>
+        <item>Wardha</item>
+        <item>Yawal</item>
+        <item>Yeola</item>
+        <item>Yeotmal</item>
+       
+    </string-array>
+
+    
+</resources>
